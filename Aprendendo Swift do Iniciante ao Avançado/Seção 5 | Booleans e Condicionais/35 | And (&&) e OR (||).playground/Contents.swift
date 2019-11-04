@@ -14,5 +14,5 @@ if idade >= 17 && idade <= 24 {
 // OR (||)
 
 if idade >= 17 || idade <= 24 {
-    print("Esta informação está sendo impressa porque toda a condiconal é verdadeira neste caso.")
+    print("Este é para o operador OR.")
 }
